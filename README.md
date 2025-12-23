@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is froggo23</h2>
+<h2 align="left">Hey 👋! I'm Froggo23</h2>
 
 ###
 
